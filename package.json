@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Documentation/website for Devin's Badges.",
   "scripts": {
-    "build": "env NODE_ENV=production npx eleventy --pathprefix 'eleventy-gh-demo'",
+    "build": "env NODE_ENV=production npx eleventy --pathprefix 'devins-badges-docs'",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"
   },
