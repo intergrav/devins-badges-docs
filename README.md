@@ -13,4 +13,4 @@ npm install # Install dependencies
 npm run serve # Start dev server
 ```
 
-After that, you are free to modify files. Every time you edit, it will immediately show up on the dev server. You then make a pull request as normal, and once merged it will be available on the live website.
+After that, you are free to modify the files. Every time you edit, it will immediately show up on the dev server. You then make a pull request as normal, and once merged it will be available on the live website.
