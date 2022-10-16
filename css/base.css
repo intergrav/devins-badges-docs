@@ -183,12 +183,8 @@ footer {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
-.highlight {
+pre {
   background-color: #0f0e0d;
-}
-
-.highlight .nt {
-  color: #a89d84;
 }
 
 @media print,
