@@ -97,7 +97,7 @@ pre {
 
 pre {
   padding: 8px 15px;
-  background: #f8f8f8;
+  background: #0f0e0d;
   border-radius: 5px;
   border: 1px solid #e5e5e5;
   overflow-x: auto;
@@ -181,10 +181,6 @@ footer {
   position: fixed;
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased;
-}
-
-pre {
-  background: #0f0e0d;
 }
 
 @media print,
