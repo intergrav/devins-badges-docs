@@ -1,7 +1,9 @@
 ---
-layout: layouts/base-no_sidebar.html
-title: Badge Reference
+layout: layouts/base.html
+title: Devin's Badges
 ---
+
+*docs / home*
 
 # 🏅 About
 
