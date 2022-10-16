@@ -4,8 +4,7 @@
   "description": "Documentation/website for Devin's Badges.",
   "scripts": {
     "build": "env NODE_ENV=production npx eleventy --pathprefix 'devins-badges-docs'",
-    "serve": "npx eleventy --serve",
-    "debug": "DEBUG=* npx eleventy"
+    "serve": "npx eleventy --serve"
   },
   "author": "intergrav",
   "license": "MIT",
