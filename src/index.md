@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.html
-title: Devin's Badges
+title: 🏅 Devin's Badges
 ---
 
 *docs / home*
@@ -25,6 +25,10 @@ You can make badges for your own personal use aswell if I am not available; it's
 
 Please star the GitHub repository if you enjoy this project!
 
+## 💁 Credits
+
+For credits, head over to the [credits page](./credits).
+
 ## ❗ Disclaimer
 
-This is currently a work in progress, I only have a few badges for a few services right now. However, I am planning to have a lot more badges in the coming weeks.
+This is currently a work in progress, I only have a few badges for a few services right now. However, I am planning to have a lot more badges eventually.

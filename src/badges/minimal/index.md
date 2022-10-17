@@ -1,10 +1,11 @@
 ---
 layout: layouts/base-no_sidebar.html
+title: 📄 Minimal Badges
 ---
 
 *docs / [home](../..) / [badges](..) / minimal*
 
-# Minimal Badges
+# {{ title }}
 
 Minimal badges only display the icon itself, without any text attached to them.  
 The recommended height is 48-64px.

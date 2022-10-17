@@ -1,10 +1,11 @@
 ---
 layout: layouts/base-no_sidebar.html
+title: 📄 Compact Badges
 ---
 
 *docs / [home](../..) / [badges](..) / compact*
 
-# Compact Badges
+# {{ title }}
 
 Compact badges are small in height, but larger in width. They only have one line of text.  
 The recommended height is 32-46px.

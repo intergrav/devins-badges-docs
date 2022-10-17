@@ -1,11 +1,11 @@
 ---
 layout: layouts/base-no_sidebar.html
-title: Badge Reference
+title: 📄 Badge Reference
 ---
 
 *docs / [home](..) / badges*
 
-# 📄 Badge Reference
+# {{ title }}
 
 Welcome to the badge reference! This place contains the pages to all the badge types, shows how to use the badges, and some recommendations when putting badges in your page.
 

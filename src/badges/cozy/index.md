@@ -1,10 +1,11 @@
 ---
 layout: layouts/base-no_sidebar.html
+title: 📄 Cozy Badges
 ---
 
 *docs / [home](../..) / [badges](..) / cozy*
 
-# Cozy Badges
+# {{ title }}
 
 Cozy badges are large in height, but smaller in width. They have two lines of text displayed.  
 The recommended height is 48-64px.
