@@ -64,6 +64,7 @@ a small {
   outline-style: solid;
   outline-width: 1px;
   outline-color: #734b26;
+  filter: sepia(0.25);
 }
 
 a:hover,
@@ -76,6 +77,10 @@ a:focus {
 .wrapper {
   width: 860px;
   margin: 0 auto;
+}
+
+.social-badge {
+  filter: sepia(0.25);
 }
 
 blockquote {
