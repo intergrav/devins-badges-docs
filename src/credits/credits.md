@@ -9,7 +9,7 @@ title: 👍 Credits
 
 Here exist credits and other things along those lines. The headers are links to each page.
 
-## Noteable Contributors
+## Contributors
 
 ### [![Andre601 Profile]({{ '/assets/images/andre601-logo_18h.png' | url }}) Andre601](https://github.com/Andre601)
 
