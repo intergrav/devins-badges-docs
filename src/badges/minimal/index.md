@@ -502,6 +502,106 @@ Badges for places where your project may be available on.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
 
+#### Spotify
+
+> **Preview**
+> ![spotify](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/spotify_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="spotify" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/spotify_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="spotify" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/spotify_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![spotify](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/spotify_vector.svg)
+> 
+> <!-- PNG version -->
+> ![spotify](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/spotify_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
+#### Musescore
+
+> **Preview**  
+> ![musescore](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/musescore_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="musescore" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/musescore_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="musescore" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/musescore_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![musescore](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/musescore_vector.svg)
+> 
+> <!-- PNG version -->
+> ![musescore](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/musescore_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
+#### Soundcloud
+
+> **Preview**  
+> ![soundcloud](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/soundcloud_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="soundcloud" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/soundcloud_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="soundcloud" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/soundcloud_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![soundcloud](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/soundcloud_vector.svg)
+> 
+> <!-- PNG version -->
+> ![soundcloud](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/soundcloud_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
+#### JWPepper
+
+> **Preview**  
+> ![jwpepper](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/jwpepper_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="jwpepper" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/jwpepper_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="jwpepper" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/jwpepper_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![jwpepper](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/jwpepper_vector.svg)
+> 
+> <!-- PNG version -->
+> ![jwpepper](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/jwpepper_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
 ### Built with
 
 Badges for displaying what your project was built with.
