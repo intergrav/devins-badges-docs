@@ -906,6 +906,56 @@ Badges for displaying what your project was built with.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
 
+#### Gradle
+
+> **Preview**  
+> ![gradle](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/gradle_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="gradle" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/gradle_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="gradle" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/gradle_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![gradle](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/gradle_vector.svg)
+> 
+> <!-- PNG version -->
+> ![gradle](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/gradle_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
+
+#### Maven
+
+> **Preview**  
+> ![maven](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/maven_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="maven" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/maven_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="maven" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/maven_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![maven](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/maven_vector.svg)
+> 
+> <!-- PNG version -->
+> ![maven](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/maven_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
+
 ### Documentation
 
 Badges displaying various places where you can host your documentation.
@@ -1643,6 +1693,31 @@ Badges that display tools, software, ... that are required for your project.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#requires">👆 Back to Category</a></div>
 
+#### Tablesaw
+
+> **Preview**  
+> ![tablesaw](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/requires/tablesaw_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="tablesaw" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/requires/tablesaw_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="tablesaw" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/requires/tablesaw_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![tablesaw](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/requires/tablesaw_vector.svg)
+> 
+> <!-- PNG version -->
+> ![tablesaw](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/requires/tablesaw_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#requires">👆 Back to Category</a></div>
+
 ### Social
 
 Badges for social sites such as Twitter, Discord, etc.
@@ -2187,12 +2262,162 @@ Badges for social sites such as Twitter, Discord, etc.
 > ```
 > 
 > **Markdown**  
-> ```markdown
+> ```markdownyoutube
 > <!-- SVG version -->
 > ![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/youtube-singular_vector.svg)
 > 
 > <!-- PNG version -->
 > ![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/youtube-singular_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#social">👆 Back to Category</a></div>
+
+#### Discourse (Plural)
+
+> **Preview**  
+> ![discourse-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-plural_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="discourse-plural" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-plural_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="discourse-plural" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-plural_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![discourse-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-plural_vector.svg)
+> 
+> <!-- PNG version -->
+> ![discourse-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-plural_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#social">👆 Back to Category</a></div>
+
+#### Discourse (Singular)
+
+> **Preview**  
+> ![discourse-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-singular_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="discourse-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-singular_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="discourse-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-singular_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![discourse-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-singular_vector.svg)
+> 
+> <!-- PNG version -->
+> ![discourse-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discourse-singular_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#social">👆 Back to Category</a></div>
+
+#### Disqus (Plural)
+
+> **Preview**  
+> ![disqus-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-plural_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="disqus-plural" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-plural_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="disqus-plural" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-plural_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![disqus-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-plural_vector.svg)
+> 
+> <!-- PNG version -->
+> ![disqus-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-plural_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#social">👆 Back to Category</a></div>
+
+#### Disqus (Singular)
+
+> **Preview**  
+> ![disqus-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-singular_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="disqus-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-singular_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="disqus-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-singular_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![disqus-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-singular_vector.svg)
+> 
+> <!-- PNG version -->
+> ![disqus-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/disqus-singular_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#social">👆 Back to Category</a></div>
+
+#### Giscus (Plural)
+
+> **Preview**  
+> ![giscus-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-plural_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="giscus-plural" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-plural_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="giscus-plural" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-plural_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![giscus-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-plural_vector.svg)
+> 
+> <!-- PNG version -->
+> ![giscus-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-plural_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#social">👆 Back to Category</a></div>
+
+#### Giscus (Singular)
+
+> **Preview**  
+> ![giscus-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-singular_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="giscus-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-singular_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="giscus-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-singular_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![giscus-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-singular_vector.svg)
+> 
+> <!-- PNG version -->
+> ![giscus-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/giscus-singular_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#social">👆 Back to Category</a></div>
@@ -2772,6 +2997,31 @@ Badges displaying Software/Platforms supported by your project.
 > 
 > <!-- PNG version -->
 > ![xbox-series](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/xbox-series_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#supported">👆 Back to Category</a></div>
+
+#### Tablesaw
+
+> **Preview**  
+> ![tablesaw](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/tablesaw_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="tablesaw" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/tablesaw_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="tablesaw" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/tablesaw_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![tablesaw](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/tablesaw_vector.svg)
+> 
+> <!-- PNG version -->
+> ![tablesaw](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/tablesaw_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#supported">👆 Back to Category</a></div>
