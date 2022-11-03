@@ -1,13 +1,13 @@
 ---
 layout: layouts/base-no_sidebar.html
-title: 📄 Compact Badges
+title: 📄 Cozy Badges
 ---
 
-*docs / [home](../..) / [badges](..) / compact*
+*docs / [home](../..) / [badges](..) / cozy*
 
 # {{ title }}
 
-Minimal badges only display the icon itself, without any text attached to them.  
+Cozy badges are large in height, but smaller in width. They have two lines of text displayed.  
 The recommended height is 48-64px.
 
 > Looking for a specific badge? Use <kbd>Ctrl+F</kbd> on Windows or <kbd>⌘+F</kbd> on Mac to look through the page.
