@@ -27,7 +27,7 @@ Please star the GitHub repository if you enjoy this project!
 
 ## 💁 Credits
 
-For credits, head over to the [credits page](./credits).
+For credits and other things along those lines, head over to the [credits page](./credits).
 
 ## ❗ Disclaimer
 
