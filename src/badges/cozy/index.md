@@ -1719,7 +1719,7 @@ Badges that display tools, software, ... that are required for your project.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#requires">👆 Back to Category</a></div>
 
-#### GeckiLib
+#### GeckoLib
 
 > **Preview**  
 > ![geckolib](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/requires/geckolib_64h.png)
