@@ -22,6 +22,7 @@ The recommended height is 48-64px.
 - [Social](#social)
 - [Supported](#supported)
 - [Unsupported](#unsupported)
+- [Translate](#translate)
 
 ### Available
 
@@ -502,6 +503,81 @@ Badges for places where your project may be available on.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
 
+#### Deno
+
+> **Preview**  
+> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/deno_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="Deno" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/deno_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="Deno" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/deno_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/deno_vector.svg)
+> 
+> <!-- PNG version -->
+> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/deno_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
+#### Modweaver
+
+> **Preview**  
+> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modweaver_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="modweaver" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modweaver_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="modweaver" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modweaver_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modweaver_vector.svg)
+> 
+> <!-- PNG version -->
+> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modweaver_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
+#### CodeMC
+
+> **Preview**  
+> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/codemc_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="codemc" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/codemc_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="codemc" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/codemc_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/codemc_vector.svg)
+> 
+> <!-- PNG version -->
+> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/codemc_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
 #### Polymart
 
 > **Preview**  
@@ -681,7 +757,7 @@ Badges for displaying what your project was built with.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
 
-#### Fabulously-optimized
+#### Fabulously Optimized
 
 > **Preview**  
 > ![fabulously-optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_64h.png)
@@ -956,6 +1032,31 @@ Badges for displaying what your project was built with.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
 
+#### BepinHecks
+
+> **Preview**  
+> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/bepinhecks_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="bepinhecks" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/bepinhecks_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="bepinhecks" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/bepinhecks_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/bepinhecks_vector.svg)
+> 
+> <!-- PNG version -->
+> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/bepinhecks_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
+
 ### Documentation
 
 Badges displaying various places where you can host your documentation.
@@ -1081,6 +1182,31 @@ Badges displaying various places where you can host your documentation.
 > 
 > <!-- PNG version -->
 > ![readthedocs](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/readthedocs_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#documentation">👆 Back to Category</a></div>
+
+#### Website
+
+> **Preview**  
+> ![website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/website_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="website" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/website_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="website" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/website_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/website_vector.svg)
+> 
+> <!-- PNG version -->
+> ![website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/website_64h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#documentation">👆 Back to Category</a></div>
@@ -3379,3 +3505,107 @@ Badges displaying Software/Platforms NOT supported by your project.
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#unsupported">👆 Back to Category</a></div>
+
+### Translate
+
+Badges showing places where people can translate your project.
+
+#### Generic (Singular)
+
+> **Preview**  
+> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-singular_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="generic-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-singular_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="generic-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-singular_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-singular_vector.svg)
+> 
+> <!-- PNG version -->
+> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-singular_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
+
+#### Generic (Plural)
+
+> **Preview**  
+> ![generic-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="generic-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="generic-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![generic-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_vector.svg)
+> 
+> <!-- PNG version -->
+> ![generic-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
+
+#### Weblate
+
+> **Preview**  
+> ![weblate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/weblate_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="weblate" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/weblate_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="weblate" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/weblate_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![weblate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/weblate_vector.svg)
+> 
+> <!-- PNG version -->
+> ![weblate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/weblate_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
+
+#### Crowdin
+
+> **Preview**  
+> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/crowdin_64h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="crowdin" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/crowdin_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="crowdin" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/crowdin_64h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/crowdin_vector.svg)
+> 
+> <!-- PNG version -->
+> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/crowdin_64h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
