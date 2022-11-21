@@ -103,6 +103,31 @@ Badges for places where your project may be available on.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
 
+#### CodeMC
+
+> **Preview**  
+> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="codemc" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="codemc" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_vector.svg)
+> 
+> <!-- PNG version -->
+> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
 #### CurseForge
 
 > **Preview**  
@@ -124,6 +149,31 @@ Badges for places where your project may be available on.
 > 
 > <!-- PNG version -->
 > ![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/curseforge_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
+#### Deno
+
+> **Preview**  
+> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="Deno" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="Deno" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_vector.svg)
+> 
+> <!-- PNG version -->
+> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
@@ -403,6 +453,31 @@ Badges for places where your project may be available on.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
 
+#### Modweaver
+
+> **Preview**  
+> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="modweaver" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="modweaver" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_vector.svg)
+> 
+> <!-- PNG version -->
+> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
 #### Musescore
 
 > **Preview**  
@@ -499,81 +574,6 @@ Badges for places where your project may be available on.
 > 
 > <!-- PNG version -->
 > ![PyPI](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/pypi_46h.png)
-> ```
-> 
-> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
-
-#### Deno
-
-> **Preview**  
-> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_46h.png)
-> 
-> **HTML (Recommended)**  
-> ```html
-> <!-- SVG version -->
-> <img alt="Deno" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_vector.svg">
-> 
-> <!-- PNG version -->
-> <img alt="Deno" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_46h.png">
-> ```
-> 
-> **Markdown**  
-> ```markdown
-> <!-- SVG version -->
-> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_vector.svg)
-> 
-> <!-- PNG version -->
-> ![Deno](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/deno_46h.png)
-> ```
-> 
-> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
-
-#### Modweaver
-
-> **Preview**  
-> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_46h.png)
-> 
-> **HTML (Recommended)**  
-> ```html
-> <!-- SVG version -->
-> <img alt="modweaver" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_vector.svg">
-> 
-> <!-- PNG version -->
-> <img alt="modweaver" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_46h.png">
-> ```
-> 
-> **Markdown**  
-> ```markdown
-> <!-- SVG version -->
-> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_vector.svg)
-> 
-> <!-- PNG version -->
-> ![modweaver](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/modweaver_46h.png)
-> ```
-> 
-> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
-
-#### CodeMC
-
-> **Preview**  
-> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_46h.png)
-> 
-> **HTML (Recommended)**  
-> ```html
-> <!-- SVG version -->
-> <img alt="codemc" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_vector.svg">
-> 
-> <!-- PNG version -->
-> <img alt="codemc" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_46h.png">
-> ```
-> 
-> **Markdown**  
-> ```markdown
-> <!-- SVG version -->
-> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_vector.svg)
-> 
-> <!-- PNG version -->
-> ![codemc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/codemc_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
@@ -728,6 +728,31 @@ Badges for displaying what your project was built with.
 > 
 > <!-- PNG version -->
 > ![adrenaline](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/adrenaline_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
+
+#### BepinHecks
+
+> **Preview**  
+> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="bepinhecks" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="bepinhecks" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_vector.svg)
+> 
+> <!-- PNG version -->
+> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
@@ -1028,31 +1053,6 @@ Badges for displaying what your project was built with.
 > 
 > <!-- PNG version -->
 > ![simply-optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/simply-optimized_46h.png)
-> ```
-> 
-> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
-
-#### BepinHecks
-
-> **Preview**  
-> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_46h.png)
-> 
-> **HTML (Recommended)**  
-> ```html
-> <!-- SVG version -->
-> <img alt="bepinhecks" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_vector.svg">
-> 
-> <!-- PNG version -->
-> <img alt="bepinhecks" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_46h.png">
-> ```
-> 
-> **Markdown**  
-> ```markdown
-> <!-- SVG version -->
-> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_vector.svg)
-> 
-> <!-- PNG version -->
-> ![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/bepinhecks_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#built-with">👆 Back to Category</a></div>
@@ -3510,27 +3510,27 @@ Badges displaying Software/Platforms NOT supported by your project.
 
 Badges showing places where people can translate your project.
 
-#### Generic (Singular)
+#### Crowdin
 
 > **Preview**  
-> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_46h.png)
+> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_46h.png)
 > 
 > **HTML (Recommended)**  
 > ```html
 > <!-- SVG version -->
-> <img alt="generic-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_vector.svg">
+> <img alt="crowdin" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_vector.svg">
 > 
 > <!-- PNG version -->
-> <img alt="generic-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_46h.png">
+> <img alt="crowdin" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_46h.png">
 > ```
 > 
 > **Markdown**  
 > ```markdown
 > <!-- SVG version -->
-> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_vector.svg)
+> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_vector.svg)
 > 
 > <!-- PNG version -->
-> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_46h.png)
+> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
@@ -3560,6 +3560,31 @@ Badges showing places where people can translate your project.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
 
+#### Generic (Singular)
+
+> **Preview**  
+> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_46h.png)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="generic-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="generic-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!-- SVG version -->
+> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_vector.svg)
+> 
+> <!-- PNG version -->
+> ![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-singular_46h.png)
+> ```
+> 
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
+
 #### Weblate
 
 > **Preview**  
@@ -3581,31 +3606,6 @@ Badges showing places where people can translate your project.
 > 
 > <!-- PNG version -->
 > ![weblate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/weblate_46h.png)
-> ```
-> 
-> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
-
-#### Crowdin
-
-> **Preview**  
-> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_46h.png)
-> 
-> **HTML (Recommended)**  
-> ```html
-> <!-- SVG version -->
-> <img alt="crowdin" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_vector.svg">
-> 
-> <!-- PNG version -->
-> <img alt="crowdin" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_46h.png">
-> ```
-> 
-> **Markdown**  
-> ```markdown
-> <!-- SVG version -->
-> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_vector.svg)
-> 
-> <!-- PNG version -->
-> ![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/crowdin_46h.png)
 > ```
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#translate">👆 Back to Category</a></div>
