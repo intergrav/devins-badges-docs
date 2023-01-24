@@ -13,7 +13,7 @@ I aim to be as consistent as possible with these. I also try to make these look 
 
 ## 📰 Using in your project
 
-Do you want to add these badges to your page? Head over to the [badge reference](./badges) to find the badges most fitting for your use, and how to use them. You can then copy the HTML code, which I recommend for best customizability, or the Markdown code for your chosen badge, and paste that into your file.
+Want to add these badges to your page? Head over to the [badge reference](./badges) to find the badges most fitting for your use, and how to use them. You can then copy the HTML code, which I recommend for best customizability, or the Markdown code for your chosen badge, and paste that into your file.
 
 ## ➕ Adding more badges
 
