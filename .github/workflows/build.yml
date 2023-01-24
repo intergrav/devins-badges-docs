@@ -1,6 +1,10 @@
 name: Eleventy Build
 on: [push]
 
+with:
+  args: --output _dist
+  install_dependencies: true
+
 jobs:
   build_deploy:
     runs-on: ubuntu-18.04
