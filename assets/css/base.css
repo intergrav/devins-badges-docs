@@ -77,10 +77,6 @@ a:focus {
   margin: 0 auto;
 }
 
-.social-badge {
-  filter: sepia(0.25);
-}
-
 blockquote {
   border-left: 1px solid #ebc59a;
   margin: 0;
