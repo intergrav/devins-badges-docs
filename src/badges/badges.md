@@ -7,7 +7,9 @@ title: 📄 Badge Reference
 
 # {{ title }}
 
-Welcome to the badge reference! This place contains the pages to all the badge types, shows how to use the badges, and some recommendations when putting badges in your page.
+Welcome to the badge reference! This place contains the pages to all the badge types and badges, shows how to use the badges, and some recommendations when putting badges in your page.
+
+At the moment, this isn't really the best solution for a badge picker. I am aware :p
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
@@ -25,36 +27,28 @@ While you don't have to do these, I recommend following these guidelines to make
 
 ### Cozy
 
-Large in height, but short in width.  
-Displays both the icon and text.
-Recommended height is 48-64px.
+This is the badge you will usually want to use. Recommended height is 48-64px. 56px is default for `svg` versions.
 
-#### Preview
+<img alt="preview" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">
 
-<img alt="app-store" height="48" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/github_vector.svg">
-
-> [Go to the page >](./cozy)
+> [Go to the cozy page >](./cozy)
 
 ### Compact
 
-Short in height, but large in width.  
-Displays both the icon and text.
-Recommended height is 32-46px.
+Compact badges are like cozy, except shorter in height. Recommended height is 32-46px. 40px is default for `svg` versions.
 
-#### Preview
+<img alt="preview" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg">
 
-<img alt="app-store" height="36" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/available/github_vector.svg">
+> [Go to the compact page >](./compact)
 
-> [Go to the page >](./compact)
+### Cozy and Compact Minimal
 
-### Minimal
+Minimal badges are versions of these badges that have no text. It only displays the icon. Recommended heights are the same as their non-minimal counterparts.
 
-Short in height and short in width.  
-Only displays the icon.
-Recommended height is 48-64px.
+<img alt="preview" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/github_vector.svg">
 
-#### Preview
+<img alt="preview" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg">
 
-<img alt="app-store" height="48" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg">
+> [Go to the cozy minimal page >](./cozy-minimal)
 
-> [Go to the page >](./minimal)
+> [Go to the compact minimal page >](./compact-minimal)
