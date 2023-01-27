@@ -18,7 +18,7 @@ Also, you don't need to add credit - it would be nice for you to do so, but I re
 While you don't have to do these, I recommend following these guidelines to make sure the badges look great on your page.
 
 - Use HTML versions when possible
-- Use SVG (`*_vector.svg`) versions when possible, unless you are using Markdown
+- Use SVG (`*_vector.svg`) versions when possible
 - Keep badge sizes in the recommended heights (available on each type page, and here)
 - Don't modify the badges unless needed
 - Don't have the badges too close to other text
