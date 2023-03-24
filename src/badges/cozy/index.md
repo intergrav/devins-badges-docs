@@ -327,6 +327,31 @@ Badges for places where your project may be available on.
 > 
 > <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
 
+#### Hangar
+
+> **Preview**  
+> ![hangar](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/hangar_vector.svg)
+> 
+> **HTML (Recommended)**  
+> ```html
+> <!-- SVG version -->
+> <img alt="hangar" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/hangar_vector.svg">
+> 
+> <!-- PNG version -->
+> <img alt="hangar" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/hangar_46h.png">
+> ```
+> 
+> **Markdown**  
+> ```markdown
+> <!--SVG version -->
+> ![hangar](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/hangar_vector.svg)
+> 
+> <!-- PNG version -->
+> ![hangar](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/hangar_46h.png)
+> ```
+> <
+> <div align="right"><a href="#categories">👆 Back to Top</a> <a href="#available">👆 Back to Category</a></div>
+
 #### Jitpack
 
 > **Preview**  
