@@ -13,7 +13,7 @@ I aim to be as consistent as possible with these. I also try to make these look 
 
 ## Using in your project
 
-Want to add these badges to your page? Head over to the [badge reference](https://intergrav.github.io/devins-badges-docs/badges/) to find the badges most fitting for your use, and how to use them. You can then copy the HTML code, which I recommend for best customizability, or the Markdown code for your chosen badge, and paste that into your file.
+Want to add these badges to your page? Head over to the [badge reference](/badges) to find the badges most fitting for your use, and how to use them. You can then copy the HTML code, which I recommend for best customizability, or the Markdown code for your chosen badge, and paste that into your file.
 
 ## Adding more badges
 
@@ -27,7 +27,7 @@ Please star the GitHub repository if you enjoy this project!
 
 ## Credits
 
-For credits and other things along those lines, head over to the [credits page](https://intergrav.github.io/devins-badges-docs/credits/).
+For credits and other things along those lines, head over to the [credits page](/credits).
 
 ## License
 
