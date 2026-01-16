@@ -1,6 +1,6 @@
 ---
 layout: layouts/base-no_sidebar.html
-title: 👍 Credits
+title: Credits
 ---
 
 *docs / [home](..) / credits*

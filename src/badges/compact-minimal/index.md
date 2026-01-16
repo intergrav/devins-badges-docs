@@ -1,6 +1,6 @@
 ---
 layout: layouts/base-no_sidebar.html
-title: 📄 Compact (Minimal) Badges
+title: Compact (Minimal) Badges
 ---
 
 *docs / [home](../..) / [badges](..) / compact-minimal*

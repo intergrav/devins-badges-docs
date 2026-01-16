@@ -1,6 +1,6 @@
 ---
 layout: layouts/base-no_sidebar.html
-title: 📄 Badge Reference
+title: Badge Reference
 ---
 
 *docs / [home](..) / badges*

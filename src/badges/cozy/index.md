@@ -1,6 +1,6 @@
 ---
 layout: layouts/base-no_sidebar.html
-title: 📄 Cozy Badges
+title: Cozy Badges
 ---
 
 *docs / [home](../..) / [badges](..) / cozy*
