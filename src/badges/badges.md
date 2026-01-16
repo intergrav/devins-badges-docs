@@ -13,7 +13,7 @@ At the moment, this isn't really the best solution for a badge picker. I am awar
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
-## 👍 Recommendations
+## Recommendations
 
 While you don't have to do these, I recommend following these guidelines to make sure the badges look great on your page.
 
@@ -23,7 +23,7 @@ While you don't have to do these, I recommend following these guidelines to make
 - Don't modify the badges unless needed
 - Don't have the badges too close to other text
 
-## ❓ Types
+## Types
 
 ### Cozy
 
