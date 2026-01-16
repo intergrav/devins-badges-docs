@@ -9,6 +9,6 @@
   "author": "intergrav",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2"
+    "@11ty/eleventy": "^3.1.2"
   }
 }
